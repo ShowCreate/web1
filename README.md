@@ -1,2 +1,2 @@
-# web1
+# web
 My first web1 repository
